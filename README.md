@@ -1,6 +1,6 @@
 # Resume
 Hanzala
-Generative AI Chatbot Enthusiast | Frontend Developer | Computer Engineering Student
+Generative AI Chatbot | Frontend Developer | Computer Engineering Student
 
 📄 About Me
 
